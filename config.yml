@@ -50,3 +50,12 @@ users:
         - form:
             title: 您是否存在咳嗽，流鼻涕等感冒症状？
             value: 否
+        - form:
+            title: 
+            value: 
+        - form:
+            title: 
+            value: 
+        - form:
+            title: 
+            value: 
